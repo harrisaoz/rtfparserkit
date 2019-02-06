@@ -1,3 +1,5 @@
+Ignore this fork.  The upstream is now much better than when this fork was made.
+
 RTF Parser Kit
 ==============
 
